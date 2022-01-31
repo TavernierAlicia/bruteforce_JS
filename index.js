@@ -1,4 +1,4 @@
-class BruteForce {
+class PureBruteForce {
     constructor(min, max, nbr) {
         this.chars = [
             '0', '1', '2', '3', '4', '5', '6','7', '8', '9', 
@@ -52,4 +52,4 @@ class BruteForce {
     }
 }
 
-mdp = new BruteForce(3, 20, 200).bruteForce()
+mdp = new PureBruteForce(3, 20, 200).bruteForce()
