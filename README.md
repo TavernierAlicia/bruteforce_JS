@@ -9,7 +9,7 @@
 #### You need to have node v14.15.1 or newer to to ensure the proper functioning of this app
 
 ## Installation
-#### To install Nightwatch eduservices, you need to clone this repository with the following command: <br />
+#### To install bruteforce_JS, you need to clone this repository with the following command: <br />
 ```git clone https://github.com/TavernierAlicia/bruteforce_js.git```
 
 #### Then install node packages: <br />
